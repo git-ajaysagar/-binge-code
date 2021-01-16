@@ -1,2 +1,1 @@
-# wine quality prediction
-Predicting wine quality using multi-variate linear regression in python
+basic use of machine learning concepts of linear regression, Kmeans clustering and nlp.
